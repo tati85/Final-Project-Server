@@ -31,7 +31,7 @@
     "plaid": "^4.11.0",
     "serve-favicon": "^2.5.0",
     "twilio": "^3.43.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^1.12.1"
